@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/kavia/workspace/code-generation/universal-notes-organizer-16420-16429/notes_app_frontend
+flutter analyze
+
